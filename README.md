@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sguttromson
 - 👀 I’m interested in full stack software development.
-- 🌱 I’m currently learning css and html.
+- 🌱 I’m currently learning Java spring boot
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me seth.guttromson@gmail.com
 
